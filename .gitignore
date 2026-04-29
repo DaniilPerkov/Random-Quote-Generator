@@ -1,0 +1,13 @@
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Среда разработки (если используется)
+.idea/
+.vscode/
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
